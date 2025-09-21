@@ -20,7 +20,7 @@ alfabeto = minus + mayus + numeros + simbolos
 
 
 
-contrasena = "Ab2"
+contrasena = "123!*"
 longitud_maxima = 4
 
 print(f"La contraseña es: '{contrasena}'")
